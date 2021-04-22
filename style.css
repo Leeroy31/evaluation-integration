@@ -1,0 +1,178 @@
+/* TOUTE LA PAGE */
+
+*{
+    font-family: Leto, sans-serif;
+}
+/* HEADER */
+header {
+    text-align: center;
+}
+
+h1{
+    margin-top: 30px;
+}
+
+.menu {
+    text-align: center;
+    height: 25px;
+    width: 25px;
+    margin-left: 150px;
+}
+
+.text-header {
+    color: #444444;
+    text-align: center;
+    margin-top: 30px;
+}
+
+button {
+    margin-top: 15px;
+    border-radius: 50px;
+    background-color: #0AA8A7;
+    border-color: #0AA8A7;
+    width: 200px;
+}
+
+.text-button {
+    color: white;
+    font-size: medium;
+}
+
+.banner-art {
+    margin-top: -50px;
+    text-align: center;
+    height: 390px;
+    width: 390px;
+}
+
+/* SECTION DESCRIPTION */
+
+h2 {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.desc {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #EDF6F5;
+    height: 860px;
+    width: 414px;
+}
+.icone {
+    margin-top: 10px;
+    height: 60px;
+    width: 60px;
+}
+
+.spe {
+    border-radius: 10px;
+    width: 380px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.spe1 {
+    text-align: center;
+}
+
+.text-desc {
+    color: #444444;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* SECTION GRAPHIQUE */
+
+#graphic {
+    margin-top: 40px;
+}
+.donnée {
+    text-align: center;
+}
+.tableau {
+    height: 220px;
+    width: 370px;
+}
+
+.text-donnée {
+    color: #444444;
+}
+.text {
+    text-align: left;
+    margin-left: 520px;
+}
+
+a {
+    color: #0AA8A7;
+    text-decoration: none;
+}
+
+#banner {
+    margin-left: 2%;
+    margin-top: 50px;
+    text-align: center;
+    border-radius: 10px;
+    height: 460px;
+    width: 350px;
+    background-color: #EDF6F5 ;
+    margin-bottom: 30px;
+}
+
+.cta {
+    margin-top: 20px;
+}
+
+.couleur {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #EDF6F5;
+    height: 500px;
+    width: 414px;
+}
+/* FOOTER */
+
+.logo {
+    height: 35px;
+    width: 35px;
+    display: inline;
+
+}
+
+footer {
+    width: 414px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #EDF6F5;
+}
+ .cat {
+     margin-bottom: 20px;
+     display: inline-block;
+     margin-left: 20px;
+     margin-right: 35px;
+     text-align: center;
+ }
+
+ .text-footer {
+     text-align: left;
+     color: #444444;
+ }
+
+ .cat1 {
+    margin-bottom: 20px;
+    display: inline-block;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.social-logo {
+    margin-left:185px;
+    margin-top: -28px;
+    word-spacing: 5px;
+}
+
+.text-foot {
+    text-align: center;
+    color: #444444;
+}
